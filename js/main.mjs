@@ -6,6 +6,7 @@ const cellWidth = 20;
 const maxCellsWidth = gridWidth / cellWidth;
 const maxCellsHeight = gridHeight / cellHeight;
 
+
 const aliveCellDisplay = {
   fillStyle: "green"
 }
