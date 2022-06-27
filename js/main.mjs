@@ -1,10 +1,3 @@
-// class Cell {
-//   isAlive;
-// }
-// class Grid {
-//   cells: Cell[];
-//   pixelsWidth;
-// }
 const displayParamsDiv = document.getElementById('gameParams')
 const gridHeight = 500;
 const gridWidth = 500;
